@@ -1,2 +1,2 @@
 # Calculator
-lest copy my professionally designed computer project
+please copy my project because i copied it too
